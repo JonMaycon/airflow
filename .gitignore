@@ -1,0 +1,7 @@
+logs/
+plugins/
+config/*
+!config/.gitkeep
+__pycache__/
+*.pyc
+.env
